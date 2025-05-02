@@ -7,7 +7,7 @@
 proxy-providers:
 
   ？？？:
-    url: "[https://1.ednovas.org/api/v1/client/subscribe?token=5d0dcbe35c31cdeb578712645f9c669c]"
+    url: "[？？？]"
     type: http
     interval: 86400
     health-check:
